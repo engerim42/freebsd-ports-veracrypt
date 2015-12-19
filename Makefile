@@ -18,7 +18,7 @@ DISTFILES=	${VC_SRCFILE}:tc \
 		pkcs11t.h:rsa
 EXTRACT_ONLY=	${VC_SRCFILE} wxWidgets-${WX_VER}.tar.bz2
 
-MAINTAINER=	zi@FreeBSD.org
+MAINTAINER=	tkuiper@inxsoft.net
 COMMENT=	Free open-source disk encryption software
 
 BUILD_DEPENDS=	nasm:${PORTSDIR}/devel/nasm
