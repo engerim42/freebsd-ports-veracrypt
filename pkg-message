@@ -1,0 +1,11 @@
+===========================================================
+*** WARNING ***
+
+VeraCrypt is not offically supported under FreeBSD, however
+it does seem to function fine under certain conditions.
+
+Until VeraCrypt is officially supported under FreeBSD, this 
+port should be considered experimental.
+
+WWW: http://veracrypt.codeplex.com/
+===========================================================
